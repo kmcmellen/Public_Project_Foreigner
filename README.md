@@ -1,4 +1,4 @@
-Sandy Springs Minutes Agent - Project Foreigner README
+Sandy Springs Minutes Agent - Project Foreigner README - THIS PROJECT IS IN DEVELOPMENT
 
 Disclaimer:
 Scripts, software, instructions, all files under this repository are provided on an "as-is" basis, without warranty.  Use is at your own risk.  No support or maintenance is guaranteed.
